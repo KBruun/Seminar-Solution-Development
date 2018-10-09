@@ -96,7 +96,7 @@ page 50101 "CSD Seminar Card"
                 Promoted = true;
                 PromotedCategory = New;
             }
-        
+
         }
     }
 
