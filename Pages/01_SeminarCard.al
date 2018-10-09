@@ -47,16 +47,16 @@ page 50101 "CSD Seminar Card"
     {
         area(Navigation)
         {
-            group(&Seminar)
+            group(Seminar)
             {
-                action("Co&mments") 
-                { 
+                action("Co&mments")
+                {
                     //RunObject=page "CSD Seminar Comment Sheet"; 
                     //RunPageLink = "Table Name"=const(Seminar),"No."=field("No."); 
-                    Image = Comment; 
-                    Promoted = true; 
-                    PromotedIsBig = true; 
-                    PromotedOnly = true; 
+                    Image = Comment;
+                    Promoted = true;
+                    PromotedIsBig = true;
+                    PromotedOnly = true;
                 }
 
 
